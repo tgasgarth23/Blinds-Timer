@@ -27,7 +27,6 @@ class Main extends JPanel implements KeyListener {
         StdDraw.setCanvasSize(1700,1000);
 
         StdDraw.enableDoubleBuffering();
-        char key = 0;
         while(true) {
 
 
